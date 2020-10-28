@@ -1,0 +1,27 @@
+* { 
+    box-sizing: border-box;
+}
+
+body { 
+    background:    #5F9EA0 no-repeat center center/cover;
+    color: #fff;
+    font-family: sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+}
+
+.container{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin: 300px;
+    margin: auto;
+    position: relative;
+    transform: scale(1);
+}
+
