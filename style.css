@@ -53,3 +53,21 @@ body {
     left: 0;
     z-index: -1;
 }
+
+.ponto-container{ 
+    position: absolute;
+    top: -40px;
+    left: 140px;
+    width: 20px;
+    height: 190px;
+
+}
+
+.ponto{ 
+    background-color: #fff;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    display: block;
+
+}
