@@ -10,7 +10,7 @@ animacaoRespiracao()
 
 function animacaoRespiracao () { 
     texto.innerHTML = "Inspire fundo!!!"
-    container.className = "container cresce"
+    container.className = "container crescer"
 
     setTimeout(() => { 
         texto.innerText = "Segure a respiração"
